@@ -1,4 +1,4 @@
-# GooGle Clone
+# Google Clone
 
 Quick start:
 
